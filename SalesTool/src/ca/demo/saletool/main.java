@@ -13,7 +13,7 @@ public class main {
 	{
 		System.out.println("HELLO h HAPPY SALES PEOPLE");
 		System.out.println("THIS APP SHOWS SALES DATA");
-		System.out.println("ohh us push !");
+		System.out.println("ohh us push !d");
 	}
 
 }
